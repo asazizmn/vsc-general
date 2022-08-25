@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 // create a generics class
 class GenericsClass<T> {
 
