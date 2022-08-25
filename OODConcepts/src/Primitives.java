@@ -13,16 +13,19 @@ public class Primitives {
         int intVar = 2_147_483_647;
         System.out.println(intVar);
 
-        long longVar = 2_147_483_647_000L;
+        // long longVar = 2_147_483_647_000_000_000L;
+        long longVar = 2_147_483_647_999_999_999L;
         System.out.println(longVar);
+        System.out.println((float)longVar);
 
 
         // how to calculate range of float variables
         // https://www.youtube.com/watch?v=YYIeMM8By6Y&t=174s
-        float floatVar = 23.0F;
+        // float floatVar = 2_147_483_647_000_000_000_000_000_000_000_000_000F;
+        float floatVar = 32.0F;
         System.out.println(floatVar);
 
-        double doubleVar = 23.0;
+        double doubleVar = 64.0;
         System.out.println(doubleVar);
     }
 }
