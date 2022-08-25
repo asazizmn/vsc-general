@@ -1,8 +1,12 @@
 # Compiled class
 *.class
+target
 
 # Package
 *.jar
+
+# Maven specific
+dependencies.txt
 
 # IDE specific
 .vscode
@@ -13,3 +17,4 @@
 # Mac Specific
 .DS_Store
 ._*
+
