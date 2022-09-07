@@ -10,7 +10,7 @@ public class Primitives {
         short shortVar = 32767;
         System.out.println(shortVar);
 
-        int intVar = 2_147_483_647;
+        int intVar = -2_147_483_648;
         System.out.println(intVar);
 
         // long longVar = 2_147_483_647_000_000_000L;
@@ -27,5 +27,13 @@ public class Primitives {
 
         double doubleVar = 64.0;
         System.out.println(doubleVar);
+
+
+        // String Comparison ///////////////
+
+        // returns difference in characters
+        // >0, left is larger | <0, left is smaller | 0, equal
+        // int difference = "catfish".compareTo("cat");
+        // System.out.println(difference);
     }
 }
