@@ -12,3 +12,8 @@
 # Mac Specific
 .DS_Store
 ._*
+
+# don't want following image types
+*.jpeg
+*.png
+
