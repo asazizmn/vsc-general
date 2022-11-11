@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "Apple"
+		},
+		{
+			"path": "JavaColours"
+		},
+		{
+			"path": "MultiInterface"
+		},
+		{
+			"path": "OODConcepts"
+		},
+		{
+			"path": "Tester"
+		},
+		{
+			"path": "junit5"
+		},
+		{
+			"path": "mavenjunit5"
+		}
+	]
+}

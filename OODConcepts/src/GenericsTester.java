@@ -22,7 +22,7 @@ class GenericsTester {
 
         // initialize generic class
         // with Integer data
-        GenericsClass<ArrayList> intObj = new GenericsClass<>(5);
+        GenericsClass<Integer> intObj = new GenericsClass<>(5);
         System.out.println("Generic Class returns: " + intObj.getData());
 
         // initialize generic class
