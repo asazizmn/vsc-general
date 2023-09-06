@@ -16,13 +16,15 @@
 			"path": "Tester"
 		},
 		{
-			"path": "junit5"
-		},
-		{
 			"path": "mavenjunit5"
 		},
 		{
 			"path": "Runner"
 		}
-	]
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		]
+	}
 }
