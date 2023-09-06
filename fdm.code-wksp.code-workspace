@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "mavenjunit5"
+		},
+		{
+			"path": "Runner"
 		}
 	]
 }
