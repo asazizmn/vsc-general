@@ -25,6 +25,7 @@
 	"settings": {
 		"java.project.sourcePaths": [
 			"src"
-		]
+		],
+		"maven.view": "hierarchical"
 	}
 }
