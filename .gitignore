@@ -18,10 +18,8 @@ dependencies.txt
 .DS_Store
 ._*
 
-<<<<<<< HEAD
-=======
 # don't want following image types
 *.jpeg
 *.png
 
->>>>>>> 86b5b3530b2510622ff22c1958faf1e18e4ea1a0
+
