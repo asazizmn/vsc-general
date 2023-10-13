@@ -21,5 +21,5 @@ dependencies.txt
 # don't want following image types
 *.jpeg
 *.png
-
+*.jfif
 
